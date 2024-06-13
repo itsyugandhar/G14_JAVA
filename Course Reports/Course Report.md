@@ -6,22 +6,22 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>Course Name</h2>
+  <h2>JAVA</h2>
 </div>
 
 # Course Report
 
-## Name: [Your Name]
+## Name: [GUDDETI YUGANDHAR]
 
-## Qualifications: [Your Qualifications]
+## Qualifications: [B.TECH 3RD YEAR]
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the [JAVA]! This README document provides an overview of the course, its final project.
 
-### Mini Projects and Final Project
+###  Final Project
 
 Below is a table summarizing the mini projects and final project completed during the course:
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+
+| Final Project: [chat_application it is terminal based project ]     | [https://github.com/itsyugandhar/G14_JAVA/tree/dc43f867879c4215a02b00d3f6215d699572fca5/Final%20Project/YUGANDHAR/chat_app]                         |
